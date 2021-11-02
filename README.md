@@ -17,6 +17,7 @@ After many aspects and consultations, we decided to develop a Idle clicker game.
 We decided to make the choice of an Idle Clicker game app after we did a small market survey and tested a game that could attract a wide audience and bring pleasure to all ages.
 After choosing the type of final project app as Idle Clicker, we debated a number of foods as the main topic of the game. Among the options were sushi, avocado and tacos, and after searching Google and comparing all together, we found that sushi is a much more popular food and therefore the theme of the chosen game is sushi and hence the name of the game Sushi Clicker.
 Here you can see a graph describing the level of popularity (according to the number of searches in Google) between the different options and presenting the sushi as the most popular food of the options.
+
 <img src="img/Analyze.png" width="400">
 
 #### And... What is the purpose of the game?
