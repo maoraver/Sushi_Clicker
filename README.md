@@ -30,8 +30,8 @@ We also aspired to the possibility of the player competing with his Facebook fri
 
 During the design and development of the game app, we were asked to learn independently things that were not included in the curriculum such as the C# programming language, game development by using Unity and using the Firebase database, which includes saving and pumping player data in real time, signing up and logging in via Facebook and Google, and more.
 
-#### Be in touch
+#### Keep in touch
 
-First of all, I want to thank **[Ofek Brown]**, who was a great partner during the Sushi Clicker creation.
+First of all, I want to thank **Ofek Brown**, who was a great partner during the Sushi Clicker creation.
 If you find any bug, or even if you have any offer to imporve the game, you can email me straight to my personal mail maor.averbuch@gmail.com, or you can email to our new email that was create for the game development sushiclicker@gmail.com.
 Hope you'll enjoy!
